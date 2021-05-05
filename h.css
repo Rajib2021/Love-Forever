@@ -1,11 +1,21 @@
+*{
 
+	margin: 0;
+	padding: 0;
+}
 .k{
 
-	width: 100%;
-	height:auto;
+	width: 500px;
+	height:400px;
 }
 .m{
 
-	width: 100%;
-	height:auto;
+	width: 500px;
+	height:400px;
+}
+.lekha{
+
+	text-align: center;
+
+
 }
